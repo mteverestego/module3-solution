@@ -1,5 +1,5 @@
 *{
-	box-sizing:border-box;
+	box-sizing: border-box;
 }
 
 body { 
@@ -9,24 +9,24 @@ body {
 
 /* Nav Bar */
 #nav-list {
-	margin-top:10px;
-	background-color:gray;
-	color:white;
-	text-align:center;
+	margin-top: 10px;
+	background-color: #ebecf0;
+	color: white;
+	text-align: center;
 }
 .navbar-default .navbar-brand {
-	font-size:1.5em;
-	font-weight:bolder;
-	font-family:"Comic Sans MS";
-	color:black;
-	hover:none;
+	font-size: 1.5em;
+	font-weight: bolder;
+	font-family: "Comic Sans MS";
+	color: black;
+	hover: none;
 }
 
 #fixed-header {
-	background:gray;
-	border:2px solid black;
-	width:100%;
-	color:black;
+	background: #ebecf0;
+	border: 2px solid black;
+	width: 100%;
+	color: black;
 }
 
 /* end of navbar */
@@ -36,21 +36,21 @@ body {
 /* main content */
 
 h1 {
-	font-size:2.5em;
-	font-weight:bolder;
-	font-family:"comic sans MS";
+	font-size: 2.5em;
+	font-weight: bolder;
+	font-family: "comic sans MS";
 }
 h3 {
-	font-weight:bold;
-	font-family:"comic-sans MS";
+	font-weight: bold;
+	font-family: "comic-sans MS";
 }
 
 #chicken {
-	background:gray;
+	background: #ebecf0;
 	margin: 0 0 25px 0;
-	font-weight:bold;
+	font-weight: bold;
     padding: 0;
-    color:black;
+    color: black;
 }
 
 #chicken p {
